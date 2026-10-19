@@ -1,1 +1,1 @@
-
+Solved SQL tasks
